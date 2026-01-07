@@ -2,7 +2,7 @@
 
 A composing message live preview extension for UC.
 
-![preview img]()
+![preview img](https://github.com/paysonism/UnknownCheats-Live-Preview/blob/main/image.png?raw=true)
 
 ## Overview
 
